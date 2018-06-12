@@ -1,0 +1,31 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+ I would want to use remote repository when I have save my code in order to access it anywhere or when I am working as a group on some project so to make it updated.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+ Sometimes we don't want the changes to be public and just want to be experimenting.Hence when all the changes are verified and ready then we think of commiting it to remote.
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+ Fork:When we want to make changes to someone else's code with our version but not on the original code,we fork the repository to our github.
+ Clones:when we want the content from github remote to our local computer,then we use clone.
+ Branches:When we want to experiment our code with other version with the same code nd want to be either included in master afterwards or merge it then we use branches.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+ Having a copy of last known state of remote locally will help us in avoiding merge conflicts and up-to-date with what we need before pushing it to remote.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+ Without using github when now I know how to use it is harder.I may collaborate by sharing the changes and one by one telling people and updating the changes.But now git and github is what I'll be using.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+ Changes in a separate branch is done when you are doing a collaborative project just to make sure the chaqnges are accepted by all before merging it to the master branch. Directly in master would cause problems if any changes or deletion needs to be done. So branches and pull requests are much better. 
